@@ -1,1 +1,5 @@
+<<<<<<< 34f1a98a073ea342cd4969541cbf027ad7a27a8f
 Lalaland                                    
+=======
+First line
+>>>>>>> First conflict for Toder
